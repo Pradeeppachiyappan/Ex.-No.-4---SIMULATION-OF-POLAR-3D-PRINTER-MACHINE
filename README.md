@@ -33,37 +33,37 @@ The base of the printer that supports the rest of the components.
 This is the frame that holds the print head and moves it up and down along the vertical axis.
 
 #### SMOOTH RODS :
-The smooth rods that provide smooth and accurate movement of the Z-axis frame.
+These smooth rods provides guideways for the extruder assembly to traverse up and down.
 
 #### MOTORS :
-provide the power to move the Z-axis frame and the print head.
+This motor is responsible for the movement of the bed support along with the base plate.
 
 #### EXTRUDER SUPPORTER :
-The support structure that holds the extruder assembly.
+Extruder holder holds the extruder and traverses vertically during the printing process.
 
 #### THREADED ROD :
-Threaded rod that provides the power to move the Z-axis frame up and down.
+Specifications of threaded rods:- M5 The threaded rods provide the path for the movement of the x-axis assembly along the z-axis. The threaded rods are coupled with motor using the couplings. The nut is inserted in the x-axis assembly which moves up and down and carries the x-axis assembly with it SMOOTH RODS Number of plane rods=2 Diameter of rods=8mm Length of Rods=42cm These rods provide the smooth path and support for the movement of the x-axis assembly.
 
 #### Y-AXIS FRAME :
-The frame that moves the print head in the horizontal plane.
+Y-Axis Frame supports and carries base plate assembly.
 
 #### MOTOR WITH GEAR :
-provides the power to move the Y-axis frame.
+It is a motor mounted with a gear to transmit motion through gears.
 
 #### MOTOR-WITH-PULLEY :
-provides the power to move the Z-axis frame.
+It is a motor mounted with pulley to transmit drive through the belts.
 
 #### GEARS :
-Transfer power from the stepper motors to the threaded rod and the smooth rods.
+Gear is a power transmission element used to transfer driving force.
 
 #### PLATE :
 plate where the printed object is created.
 
 #### EXTRUDER :
-melts and extrudes the filament to create the printed object.
+Extruder is the core of any 3D printer. It heats up the filament and extrudes it with the help of a nozzle.
 
 #### FILAMENT :
-material that is used to create the printed object.
+Filament is the material which is to be 3D printed.
 
 
 
