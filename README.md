@@ -1,7 +1,4 @@
 # Ex. No.4 SIMULATION OF POLAR 3D PRINTER MACHINE
-
-### DATE: 
-
 ## AIM:
 ### To simulate the construction of polar 3D printer and to get in-depth knowledge of mechatronics of polar 3D printers.
 
@@ -75,8 +72,8 @@ material that is used to create the printed object.
 
 ## Output:
 
-### Name: B.venkata bharadwaj
-### Register Number: 212222240020
+### Name: P.Pradeep Raj
+### Register Number: 212222240073
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
